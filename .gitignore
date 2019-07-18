@@ -1,0 +1,9 @@
+.idea
+derby.log
+
+target
+
+frontend/node_modules
+frontend/dist
+frontend/.cache
+frontend/build
